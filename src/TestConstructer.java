@@ -1,7 +1,7 @@
 public class TestConstructer {
     TestConstructer(int n, String str)
     {
-        System.out.println("Constructor eith two parameters is invoked!!");
+        System.out.println("Constructor with two parameters is invoked!!");
         int num=n;
         String name=str;
 
